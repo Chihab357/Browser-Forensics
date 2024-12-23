@@ -20,6 +20,8 @@ This repository presents a **Browser Forensics Project**, focusing on analyzing 
 - **Browser History Examiner**: Used for data extraction and analysis.
 - **SQLite**: Format for browser history databases.
 - **Browsers analyzed**: Mozilla Firefox & Microsoft Edge.
+  
+![1552305970_browser-history-examiner jpg](https://github.com/user-attachments/assets/1e21c2ca-51c0-4feb-8441-f7dcba4c3680)
 
 ---
 
@@ -27,6 +29,8 @@ This repository presents a **Browser Forensics Project**, focusing on analyzing 
 1. **Data Extraction** 🛠️  
    - Browser history files were securely extracted from the operating system.  
    - Tools like Browser History Examiner imported and parsed the data.
+     
+![image](https://github.com/user-attachments/assets/c16a5e09-4db3-4243-ac87-b574bbfa75a4)
 
 2. **Data Analysis** 🔍  
    - Extracted data included:
@@ -34,11 +38,14 @@ This repository presents a **Browser Forensics Project**, focusing on analyzing 
      - Timestamps and frequency of visits.
      - Cached files and images.
      - Saved login credentials and search terms.
+![image](https://github.com/user-attachments/assets/c4710270-5711-4812-9bc9-0dcb873cc687)
+
 
 3. **Data Comparison** 📊  
    - Mozilla Firefox and Microsoft Edge were compared based on:
      - Volume of data stored.
      - Types of sites visited.
+![image](https://github.com/user-attachments/assets/e8b56685-2be9-484e-98a7-64b4cf15d39b)
 
 4. **Reporting** 📝  
    - Exported detailed reports in **PDF** and **HTML** formats for further analysis and documentation.
